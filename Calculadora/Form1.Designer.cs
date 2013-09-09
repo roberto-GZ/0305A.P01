@@ -98,7 +98,7 @@
             // cmdLimp
             // 
             this.cmdLimp.BackColor = System.Drawing.Color.Coral;
-            this.cmdLimp.Location = new System.Drawing.Point(68, 118);
+            this.cmdLimp.Location = new System.Drawing.Point(69, 107);
             this.cmdLimp.Name = "cmdLimp";
             this.cmdLimp.Size = new System.Drawing.Size(75, 23);
             this.cmdLimp.TabIndex = 6;
@@ -111,7 +111,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Moccasin;
-            this.ClientSize = new System.Drawing.Size(206, 165);
+            this.ClientSize = new System.Drawing.Size(209, 136);
             this.Controls.Add(this.cmdLimp);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
